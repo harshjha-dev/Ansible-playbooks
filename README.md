@@ -1,2 +1,2 @@
-# Ansible-playbooks
-Ansible playbooks for automating server setup and configuration. Includes Nginx deployment.
+# Ansible LAMP Stack Playbook
+This playbook installs Apache, MySQL, and PHP on Ubuntu using Ansible.
